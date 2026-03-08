@@ -1,8 +1,7 @@
-
-🌟 About Me
-🔭 Currently exploring Backend, DevOps and Cloud Native technologies.  
-⚡ Interested in building scalable systems and contributing to Open Source.  
- Learning Docker, Kubernetes and AWS.
+👋 About Me
+Backend & DevOps Engineer 🚀  
+Exploring Cloud Native & Open Source  
+Learning Docker, Kubernetes & AWS
 
 💼 Experience
 Backend & DevOps Projects on GitHub  
@@ -17,3 +16,8 @@ Cloud: AWS | Linux
 🌐 Find Me on the Internet
 LinkedIn: https://linkedin.com/in/akashvasu75  
 Email: Akashstzt@gmail.com
+
+ 📊 GitHub Stats
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashstzt&show_icons=true&theme=radical)
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
