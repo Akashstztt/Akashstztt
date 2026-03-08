@@ -1,23 +1,48 @@
-👋 About Me
-Backend & DevOps Engineer 🚀  
-Exploring Cloud Native & Open Source  
-Learning Docker, Kubernetes & AWS
 
-💼 Experience
-Backend & DevOps Projects on GitHub  
-Open Source Learner  
-Building Cloud Native Applications
+# Hi 👋 I'm Akash Kumar
 
-🚀 Tech Stack
-Backend: Node.js | Express | JavaScript  
-DevOps: Docker | Kubernetes | CI/CD  
-Cloud: AWS | Linux
+🚀 Backend & DevOps Engineer  
+☁ Exploring Cloud Native & Open Source  
+🐳 Currently Learning Docker, Kubernetes & AWS  
 
-🌐 Find Me on the Internet
+---
+
+### 👨‍💻 About Me
+- Backend & DevOps enthusiast  
+- Interested in building scalable systems  
+- Open Source Learner  
+- Building Cloud Native Applications  
+
+---
+
+### ⚙️ Tech Stack
+
+**Backend**  
+Node.js | Express | JavaScript  
+
+**DevOps**  
+Docker | Kubernetes | CI/CD  
+
+**Cloud & OS**  
+AWS | Linux  
+
+---
+
+### 🌐 Connect With Me
+
 LinkedIn: https://linkedin.com/in/akashvasu75  
-Email: Akashstzt@gmail.com
+Email: Akashstzt@gmail.com  
 
- 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
+
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashstzt&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akashstzt&theme=radical)
+
+---
+
+### 🛠 Tools & Technologies
+
+Docker | Kubernetes | AWS | Git | Linux
