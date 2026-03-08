@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Akashstztt/Akashstztt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+🔭 Currently exploring Backend, DevOps and Cloud Native technologies.  
+⚡ Interested in building scalable systems and contributing to Open Source.  
+ Learning Docker, Kubernetes and AWS.
 
-Here are some ideas to get you started:
+💼 Experience
+Backend & DevOps Projects on GitHub  
+Open Source Learner  
+Building Cloud Native Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+Backend: Node.js | Express | JavaScript  
+DevOps: Docker | Kubernetes | CI/CD  
+Cloud: AWS | Linux
+
+🌐 Find Me on the Internet
+LinkedIn: https://linkedin.com/in/akashvasu75  
+Email: Akashstzt@gmail.com
