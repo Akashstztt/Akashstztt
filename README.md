@@ -1,5 +1,5 @@
 
-# Hi 👋 I'm Akash Kumar
+# Hi 👋 I'm Akash 
 
 🚀 Backend & DevOps Engineer  
 ☁ Exploring Cloud Native & Open Source  
