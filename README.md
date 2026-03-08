@@ -35,11 +35,7 @@ Email: Akashstzt@gmail.com
 
 ---
 
-### 📊 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashstzt&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akashstzt&theme=radical)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
